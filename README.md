@@ -4,4 +4,4 @@ This is the latex files and figures, for the paper and presentation slides, of t
 
 This is my first project using latex, so don't cringe to much if you know what you're doing.
 
-Presentation was giving on April 24, 2020
+Presentation giving on April 24, 2020
